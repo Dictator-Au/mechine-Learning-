@@ -1,4 +1,4 @@
-# Mechine-Learning
+# BJTU-ML-Practice
 
 The code records assignments from a machine learning course at BJTU.
 
